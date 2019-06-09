@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.5)
 project(eosio.assert VERSION 0.0.0)
 
-set(EOSIO_CDT_VERSION_MIN "1.6")
-set(EOSIO_CDT_VERSION_SOFT_MAX "1.6")
+set(EOSIO_CDT_VERSION_MIN "3.0")
+set(EOSIO_CDT_VERSION_SOFT_MAX "3.0")
 #set(EOSIO_CDT_VERSION_HARD_MAX "")
 
 find_package(eosio.cdt)
